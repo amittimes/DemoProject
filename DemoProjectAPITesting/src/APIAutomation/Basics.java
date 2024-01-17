@@ -56,27 +56,15 @@
  	System.out.println(actualAddress);
  	Assert.assertEquals(actualAddress, "Pacific ocean");
  	//Cucumber Junit, Testng
- 	
- 	
- 	
- 	
- 	
- 	
- 	
- 	
- 	
-
- 		
- 		
- 		
- 		
- 		
- 		
+ 
  		
  		
  		
  		
  		
  	}
+public void amitTest()
+  {
+   System.out.println("this is dome file to test);
 
  }
