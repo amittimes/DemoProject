@@ -63,10 +63,13 @@
  		
  		
  	}
+
+
 public void amitTest()
   {
    System.out.println("this is dome file to test);
  }
+
 
 public void amitTest1()
 {
@@ -74,3 +77,8 @@ public void amitTest1()
  System.out.println("second commit in new branch");
  System.out.println("third commit in new branch");
 }
+
+public void amitTes1t3()
+  {
+   System.out.println("this is dome file to test);
+ }
