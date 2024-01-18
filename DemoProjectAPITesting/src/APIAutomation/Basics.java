@@ -82,3 +82,10 @@ public void amitTes1t3()
   {
    System.out.println("this is dome file to test);
  }
+
+public void amitTes1td3()
+{
+ System.out.println("this is dome file to test, commit ka issue solved ker liya);
+}
+
+
