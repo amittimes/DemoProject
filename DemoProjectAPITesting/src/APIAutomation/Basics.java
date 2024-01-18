@@ -70,5 +70,7 @@ public void amitTest()
 
 public void amitTest1()
 {
- System.out.println("new commit in new branch");
+ System.out.println("first commit in new branch");
+ System.out.println("second commit in new branch");
+ System.out.println("third commit in new branch");
 }
