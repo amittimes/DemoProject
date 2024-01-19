@@ -70,6 +70,26 @@ public void amitTest()
    System.out.println("this is dome file to test);
  }
 
+
+public void amitTest1()
+{
+ System.out.println("first commit in new branch");
+ System.out.println("second commit in new branch");
+ System.out.println("third commit in new branch");
+}
+
+public void amitTes1t3()
+  {
+   System.out.println("this is dome file to test);
+ }
+
+public void amitTes1td3()
+{
+ System.out.println("this is dome file to test, commit ka issue solved ker liya);
+}
+
+
+
 public void amitTes1t()
   {
    System.out.println("this is dome file to test);
